@@ -1,6 +1,6 @@
 ## `Personal Portfolio`
 
-## In this project created using Vite, i developed my portofolio.
+## In this project created using Vite, I developed my portofolio.
 
 -----------------------------------------------
 ### Features:
