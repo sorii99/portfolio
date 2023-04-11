@@ -3,7 +3,7 @@ export default [
         year: 'Today',
         title: "Front-end Developer",
         duration: '2 years',
-        details: 'Building application and web experiences for myself with training purposes'
+        details: 'Building applications and web experiences for myself with training purposes.'
     },
     {
         year: '2022',
