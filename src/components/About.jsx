@@ -9,7 +9,7 @@ const About = () => {
             <p className='text-sm max-w-xl mb-6 font-bold'>
                 Welcome to my personal portfolio!
                 <br />
-                I'm a front-end developer located in Argentina. Currently training in the mobile & web development field, seeking to develop my experience and expanding my knowledge in the technological field, while developing my professional career at the same time.
+                I'm a front-end developer located in Argentina. Currently working and training in the mobile & web development field, seeking to develop my experience and constantly expanding my knowledge in the technological field, while developing my professional career at the same time.
                 <br />
                 Always looking for new challenges and techniques to be better at what I do.
             </p>
