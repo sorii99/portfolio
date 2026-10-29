@@ -1,11 +1,11 @@
 export default [
     {
-        title: 'GestiU',
+        title: 'Benedetto',
         imgUrl: '/assets/rY8EEZSrbG.png',
         stack: [
-            'React', 'Redux', 'Material UI'
+            'Vite', 'Tailwind', 'Supabase'
         ],
-        link: 'https://gestiu.vercel.app',
+        link: 'https://benedetto.com.ar/',
     },
     {
         title: 'Firebase E-Commerce',
@@ -19,7 +19,7 @@ export default [
         title: 'Tic Tac Toe',
         imgUrl: '/assets/exc84RGusW.png',
         stack: [
-            'React', 'Tailwind', 'Vite'
+            'Vite', 'Tailwind', 'Netlify'
         ],
         link: 'https://threeinlinethegame.netlify.app',
     }
